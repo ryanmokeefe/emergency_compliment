@@ -1,0 +1,45 @@
+h1 {
+    color: rgba(255,0,0, .9);
+    opacity: .5;
+    background-color: yellow;
+}
+#test {
+color: green;
+}
+.class{
+    background-color: blue;
+}
+
+/*  */
+div {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
+}
+
+#name {
+	background: black;
+}
+
+#hex {
+	background: #000000;
+}
+
+#rgb {
+	background: rgb(0,0,0);
+}
+h3{
+    background-color: blue;
+}
+/* font family */
+
+p{
+    font-family: Arial, serif;
+
+}
+#sansarif{
+ font-family: 'Times New Roman', san-serif;
+}
+

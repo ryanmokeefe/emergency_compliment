@@ -1,0 +1,33 @@
+body{
+    background: rgb(194, 188, 188); 
+    position: center; 
+}
+div{
+    background: blue;
+    border: 1px black solid;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: 10px 5px 1px yellow;
+
+
+}
+footer{
+    background: rgb(4, 112, 145);
+}
+.zola{
+    background: blue;
+    border: 0.5px sold black;
+    border-radius: 6px;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 6px;
+
+}
+.bodyZola{
+    background: red;
+}
+ul{
+    
+}
